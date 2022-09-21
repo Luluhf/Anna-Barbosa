@@ -13,6 +13,14 @@ P{
      font-size:30;
      text-align:right;
 }
+.imagens {
+    text-align:center;
+    background: black;
+}
+
+.listas {
+     background: black;
+}
 h1 {
      color:blue;
      text-align: center;
